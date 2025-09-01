@@ -20,7 +20,7 @@ Este proyecto busca ser una demostración práctica de cómo integrar Angular co
 
 - **Node.js 20.9.0** instalado  
 - **Angular CLI 17.3.0**  
-- Tener configurado y corriendo el backend (ver [AS222S5_T02_be](../AS222S5_T02_be))  
+- Tener configurado y corriendo el backend (ver [AS222S5_T02_be]([../AS222S5_T02_be](https://github.com/AngelCastillaDev/AIStudio-ChatIA-Backend)))  
 
 ## Instalación y Configuración  
 
